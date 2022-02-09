@@ -31,7 +31,7 @@
     padding: 15px 25px;
     text-align: center;
     text-decoration: none;
-    display: inline-block;
+    display: inline-block; 
   }
   
   a:hover, a:active {
