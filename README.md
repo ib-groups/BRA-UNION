@@ -39,7 +39,7 @@
   }
   </style>
   
- <h2>General Test( TO JOIN OUR MASTER PROGRAMS )</h2>
+ <h2> TO JOIN OUR MASTER PROGRAMS )</h2>
         <a href="https://forms.gle/AbXrfq7F6ob5gD7BA">GENERAL TEST</a>
   <h2>Youtube channel </h2>
         <a href="http://www.youtube.com/channel/UCgFQ6Crj6S3XG5fbytJsaOQ">YOUTUBE</a>
